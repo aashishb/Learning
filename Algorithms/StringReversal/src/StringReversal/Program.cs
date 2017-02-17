@@ -9,7 +9,7 @@ namespace StringReversal
     {
         public static void Main(string[] args)
         {
-            string str = "reverse this string done finally";
+            string str = "adding to git";
             string strReverse = string.Empty;
 
             string[] strArray = str.Split();

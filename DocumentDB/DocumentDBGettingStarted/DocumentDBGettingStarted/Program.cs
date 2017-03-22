@@ -11,6 +11,8 @@ using Newtonsoft.Json;
 
 namespace DocumentDBGettingStarted
 {
+
+    //https://docs.microsoft.com/en-us/azure/documentdb/documentdb-get-started
     class Program
     {
         private const string EndpointUrl = "https://sampledocumentdb66.documents.azure.com:443/";
